@@ -1,7 +1,11 @@
 {
     "name": "JenniferGame.Runtime",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "Unity.Cinemachine"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
